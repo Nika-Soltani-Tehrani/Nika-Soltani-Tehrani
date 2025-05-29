@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Nika!
 
-<!--
-**Nika-Soltani-Tehrani/Nika-Soltani-Tehrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist with a passion for AI, data modeling, and solving real-world problems.  
+I am an Ex-Tapsier [TAPSI](https://tapsi.ir) and I was a double majored bachelor's student, studying both Electrical and Computer Engineering.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/nika-soltani-tehrani/) | [Email](mailto:nsoltanitehraniw@gmail.com)
+
+
+![Nika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nika-soltani&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nika-soltani&layout=compact)
