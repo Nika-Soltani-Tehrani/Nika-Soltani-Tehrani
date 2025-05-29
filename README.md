@@ -7,7 +7,7 @@ I am an Ex-Tapsier [TAPSI](https://tapsi.ir) and I was a double majored bachelor
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/nika-soltani-tehrani/) | [Email](mailto:nsoltanitehraniw@gmail.com)
 
 
-![Nika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nika-soltani&show_icons=true&theme=radical)
+![Nika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nika-Soltani-Tehrani&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nika-soltani&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nika-Soltani-Tehrani&layout=compact)
